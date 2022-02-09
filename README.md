@@ -18,6 +18,31 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 
 
 
-# Bienvenida a la exposición artística.
+# Exposición artística.
+
+
+![primera](https://user-images.githubusercontent.com/94578395/153294293-d15d8e5c-2384-4821-9acf-8d32abe88db6.JPG)
+
+![segunda](https://user-images.githubusercontent.com/94578395/153294327-6d9641a2-7190-493e-ba91-d834ebd1fd32.JPG)
+
+![3](https://user-images.githubusercontent.com/94578395/153294349-0a9a4cdb-2d11-405e-9083-65fc417eb92e.JPG)
+
+![4](https://user-images.githubusercontent.com/94578395/153294363-11b5f98a-4cab-41ce-9d6a-9a380f4b30ce.JPG)
+
+![5](https://user-images.githubusercontent.com/94578395/153294381-ed206f61-28b3-4e62-9709-feb59e50264c.JPG)
+
+![6](https://user-images.githubusercontent.com/94578395/153294406-89524043-13c9-49bf-bbbf-9e612128041f.JPG)
+
+
+![7](https://user-images.githubusercontent.com/94578395/153294439-95fd3459-239a-4aa0-b30c-3f9fd9086cbc.JPG)
+
+![8](https://user-images.githubusercontent.com/94578395/153294465-12a6edbf-80e0-42c5-a415-69253fcec031.JPG)
+
+![9](https://user-images.githubusercontent.com/94578395/153294501-3f555f29-4f27-4138-9f15-85eff41a40bb.JPG)
+
+![10](https://user-images.githubusercontent.com/94578395/153294527-7b68f3f2-8c6b-4c71-bc57-3922a3c00a5b.JPG)
+
+
+
 
 
