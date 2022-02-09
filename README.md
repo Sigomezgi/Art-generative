@@ -11,7 +11,7 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 - Estos puntos fueron evaluados en una función hiperbólica compuesta. Z
 - A partir de los datos creados y de la salida de la función, se evalua varios modelos que se aproximan a la variable respuesta, en este caso, el valor de Z.
 - Se implementa unos de los modelos probados, la elección de este no se baso en su aproximación al target sino que se probo con un modelo de libre elección. La idea de la creación de este modelo es agregar arte estadística a las imágenes creadas por medio de perturbaciones de las funciones generadoras de imágenes.
-- El procedimiento anterior se realiza en dos ocasiones para generar dos modelos con arte estadística.
+- El procedimiento anterior se realiza en dos ocasiones para generar dos modelos que aporte arte a través del error.
 - Los modelos creados fueron: Regresión Lasso y Elastic Net, respectivamente.
 - Luego de creado los modelos, se crea una malla con una distribución normal para ser evaluadas en el modelo creado.
 - A partir de la librería, Samila, se crean 10 imágenes cada una con un par de funciones trigonométricas hiperbólicas modificada por ambos modelos.
