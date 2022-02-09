@@ -1,3 +1,29 @@
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/53/UNAL_Aplicaci%C3%B3n_Medell%C3%ADn.svg)
+
+<center> <h1> Arte generativo a partir de métodos de aprendizaje estadístico y expreciones matemáticas </h1> </center>
+<center> <h4> Juan Daniel Bula Isaza - Bryan Garcia Villa - Simón Gómez Giraldo - Carolina Quintero Osorio </h4> </center>
+<center> <h5> 9 de Febrero de 2022 </h5> </center>
+
+## Resumen
+<p align = "justify"> Es impresionante el potencial que puede llegar a tener la inteligencia artificial, tanto, como para desarrollar obras de arte, piezas músicales, videos, entre otras cosas más, que cada día se están explorando en este gigantezco mundo.   </p>
+
+<p align = "justify">El gran objetivo de este trabajo es la implementación de un modelo que permita predecir el número de vehículos registrados diariamente en el Registro Único Nacional de Tránsito (RUNT), utilizando como insumo principal la base de datos proporcionada para su elaboración, con el nombre de registros_autos, la cual incluye la fecha y el número de registros de vehículos en determinada fecha. </p>
+
+## Introducción
+
+<p align = "justify">  </p>
+
+<p align = "justify"> </p>
+
+
+
+
+
+
+
+
+
 # Art-generative
 Se presenta a continuación el desarrollo para la generación de las imágenes. 
 Al final se realiza una apreciación  artística de las imágenes generadas por parte del equipo.
