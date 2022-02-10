@@ -59,7 +59,7 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 ![segunda](https://user-images.githubusercontent.com/94578395/153294327-6d9641a2-7190-493e-ba91-d834ebd1fd32.JPG)
 
 
-<p align = "justify"> Puede ser alguna especie de escamas, un pez, la piel o el ojo de reptil por su forma y color, las ondas o mostañas circulares se van espandiendo hacial el centro, se ve armonioso por que formas semi circulares crean un circulo. En el centro, tambien se puede observar una especie de cardioide rotado hacia la derecha, ubicado en el centro de la pieza, dando el presente a las expresiones matemáticas, las cuales modelan el todo del universo.</p>
+<p align = "justify"> Puede ser alguna especie de escamas, un pez, la piel o el ojo de reptíl por su forma y color, las ondas o montañas circulares se van expandiendo hacia el centro, se ve armonioso por que formas semi circulares crean un circulo. En el centro, también se puede observar una especie de cardioide rotado hacia la derecha, ubicado en el centro de la pieza, dando el presente a las expresiones matemáticas, las cuales modelan el todo del universo.</p>
 
 
 ### Pieza 3: Alas de mar 
