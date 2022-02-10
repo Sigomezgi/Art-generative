@@ -10,7 +10,7 @@
 <p align = "justify"> Imagina que entras a una galería de arte, y en el fondo ves una pintura bastante llamativa, con colores y figuras bastante estéticas, después de contemplar dicha pieza artística por un lapso de tiempo, te diriges a la etiqueta de información y descubres que la pieza fue elaborada por un sistema computacional, es algo muy interesante... ¿No?. Pues esto es una pequeña parte de lo que es el arte generativo y es precisamente lo que encontrarás en este blog. </p>
 
 
-<p align = "justify"> Es impresionante el potencial que puede llegar a tener la inteligencia artificial, tanto, como para desarrollar obras de arte, piezas músicales, videos, entre otras cosas más, que cada día se están explorando en este gigantezco mundo. El gran objetivo de este trabajo, es generar obras de arte a partir de técnicas en aprendizaje estadístico, distribuciones de probabilidad multivariada y expresiones matemáticas, con el fin de presentar una colección de imágenes artísticas para posteriormente ser expuestas y documentadas en este blog.   </p>
+<p align = "justify"> Es impresionante el potencial que puede llegar a tener la inteligencia artificial, tanto, como para desarrollar obras de arte, piezas músicales, videos, entre otras cosas más, que cada día se están explorando en este gigantezco mundo. El gran objetivo de este trabajo, es generar obras de arte a partir de técnicas en aprendizaje estadístico, distribuciones de probabilidad multivariada y expresiones matemáticas, con el fin de presentar una colección de imágenes artísticas para posteriormente ser expuestas y documentadas.   </p>
 
 
 # Introducción
@@ -20,7 +20,7 @@
 <p align = "justify">En este punto, el lector podrá preguntarse que será el machine learning o la inteligencia artificial y que relación tiene con el arte, la respuesta es, dado que las redes neuronales artificiales y los demás métodos de aprendizaje, empezaron a hacer parte de nuestro ecosistema, por supuesto, empezaron a impactar de manera radical el sistema del arte, las obras realizadas a  partir de estas tecnologías se están multiplicando de manera exponencial.</p>
 
 
-<p align = "justify"> En definitiva, las obras generadas con estas tecnologías, están impactando no solo el panorama artístico, sino también, otros campos como la música, la arquitectura, el diseño de modas, entre otros. Se presenta a continuación el desarrollo para la generación de las imágenes, donde al final, se realiza una apreciación  artística de las imágenes generadas por parte del equipo. </p>
+<p align = "justify"> En definitiva, las obras generadas con estas tecnologías, están impactando no solo el panorama artístico, sino también, otros campos como la música, la arquitectura, el diseño de modas, entre otros. Se presenta a continuación el desarrollo para la generación de las imágenes, donde al final, se realiza una apreciación  artística de las mismas, generadas por parte del equipo. </p>
 
 
 # Generación de imágenes
