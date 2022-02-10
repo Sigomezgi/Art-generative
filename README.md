@@ -66,7 +66,7 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 ![3](https://user-images.githubusercontent.com/94578395/153294349-0a9a4cdb-2d11-405e-9083-65fc417eb92e.JPG)
 
 
-<p align = "justify"> El sentido de la escucha por que parecen orejas, parlantes, el reflejo de un instrumento de viento, música tranquila, tal vez alas, auroras boreales reflejadas en el fondo de un oceano, una bailarina con un delicado vestido, un murcielago en vuelo, muchas formas se pueden percibir de esta imagen pero hay una cosa en comun y es que va lento y con suavidad. </p>
+<p align = "justify"> El sentido de la escucha por que parecen orejas, parlantes, el reflejo de un instrumento de viento, música tranquila, tal vez alas, auroras boreales reflejadas en el fondo de un océano, una bailarina con un delicado vestido, un murciélago en vuelo, muchas formas se pueden percibir de esta imagen pero hay una cosa en común y es que va lento y con suavidad. </p>
 
 
 
