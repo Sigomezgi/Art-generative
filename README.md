@@ -41,8 +41,15 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 
 # Exposición artística.
 
+<p align = "justify"> Ahora, se procede con la exposición de arte generativo: </p>
+
+
+
+
 
 ![primera](https://user-images.githubusercontent.com/94578395/153294293-d15d8e5c-2384-4821-9acf-8d32abe88db6.JPG)
+
+### Pieza 1: Distribución de registros RUNT
 
 
 
