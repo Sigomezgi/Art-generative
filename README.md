@@ -41,7 +41,7 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 
 # Exposición artística.
 
-<p align = "justify"> Ahora, se procede con la exposición de arte generativo, donde como equipo, decisimos nombrar cada una de las obras segun lo que transmiten de forma abstracta. </p>
+<p align = "justify"> Ahora, se procede con la exposición de arte generativo, donde como equipo, decidimos nombrar cada una de las obras según lo que transmiten de forma abstracta. </p>
 
 
 
@@ -50,7 +50,7 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 ![primera](https://user-images.githubusercontent.com/94578395/153294293-d15d8e5c-2384-4821-9acf-8d32abe88db6.JPG)
 
 
-<p align = "justify"> Hay las funciones geométricas y matemáticas de por medio que pueden llegar a formar vertices y angulos de trazos circulares, puede reflejar un reloj de arena, un aparato muy preciso en su forma, nos puede dar sensacion de tocar algun tema a como es la teoria de la relatividad , el sonido con sus puntos máximos y mínimos en las ondas producidas o a universos paralelos, se siente como estudios en ciencias exactas por su precision y semejanza </p>
+<p align = "justify">Las funciones geométricas y matemáticas de por medio que pueden llegar a formar vértices y angulos de trazos circulares, puede reflejar un reloj de arena, un aparato muy preciso en su forma, nos puede dar sensación de tocar algún tema a como es la teoria de la relatividad, el sonido con sus puntos máximos y mínimos en las ondas producidas o a universos paralelos, se siente como estudios en ciencias exactas por su precision y semejanza. </p>
 
 
 
@@ -59,7 +59,7 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 ![segunda](https://user-images.githubusercontent.com/94578395/153294327-6d9641a2-7190-493e-ba91-d834ebd1fd32.JPG)
 
 
-<p align = "justify"> Puede ser alguna especie de escamas, un pez, la piel o el ojo de reptil por su forma y color, las ondas o mostañas circulares se van espandiendo hacial el centro, se ve armonioso por que formas semi circulares crean un circulo. En el centro, tambien se puede observar una especie de cardioide rotado hacia la derecha.</p>
+<p align = "justify"> Puede ser alguna especie de escamas, un pez, la piel o el ojo de reptil por su forma y color, las ondas o mostañas circulares se van espandiendo hacial el centro, se ve armonioso por que formas semi circulares crean un circulo. En el centro, tambien se puede observar una especie de cardioide rotado hacia la derecha, ubicado en el centro de la pieza, dando el presente a las expresiones matemáticas, las cuales modelan el todo del universo.</p>
 
 
 ### Pieza 3: Alas de mar 
@@ -74,21 +74,21 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 ![4](https://user-images.githubusercontent.com/94578395/153294363-11b5f98a-4cab-41ce-9d6a-9a380f4b30ce.JPG)
 
 
-<p align = "justify"> Es caótico, se siente como el fin del mundo, parece un viaje en el tiempo, aunque frente a una mente menos dramática se podria descibir como un disco de vinilo o un universo donde alguna estrella que es centro de órbita, es la representacion del inicio o el fin. </p>
+<p align = "justify"> Es caótico, se siente como el fin del mundo, parece un viaje en el tiempo, aunque frente a una mente menos dramática se podria descibir como un disco de vinilo o un universo donde alguna estrella que es centro de órbita, es la representación del inicio o el fin, se percibe clara evidencia de participación de funciones hiperbólicas por los contornos circulares y curvaturas marcadas. </p>
 
 
-### Pieza 5: Agujero negro sobre superficie 
+### Pieza 5: Agujero 
 ![5](https://user-images.githubusercontent.com/94578395/153294381-ed206f61-28b3-4e62-9709-feb59e50264c.JPG)
 
 
-<p align = "justify"> Gráficos paralelos y semejantes, se pueden percibir olas de mar, aunque tambien pueden ser olas sobre la arena creadas por el viento en medio del desierto, una barrera entre dos mundos , un agujero que absorbe, una grieta hueca y sin fondo, transmite un pensamiento de curiosidad, ¿que habrá más alla? por que refleja algo infinito en una imagen con trazos finitos. </p>
+<p align = "justify"> Gráficos paralelos y semejantes, se pueden percibir olas de mar, aunque también pueden ser olas sobre la arena creadas por el viento en medio del desierto, una barrera entre dos mundos , un agujero que absorbe, una grieta hueca y sin fondo, transmite un pensamiento de curiosidad, ¿que habrá más alla? por que refleja algo infinito en una imagen con trazos finitos. </p>
 
 
-### Pieza 6: Sombra en la oscuridad
+### Pieza 6: Sombra
 ![6](https://user-images.githubusercontent.com/94578395/153294406-89524043-13c9-49bf-bbbf-9e612128041f.JPG)
 
 
-<p align = "justify"> si con esta imagen se pudiera decribir la personalidad de alguien, se describiría como rígido, estricto, alguien con el ego muy alto,una persona selectiva y directa, veo desaprobacion porque si le vemos otra cara se puede asemejar una letra "equis", algún pañuelo de seda o hasta puede reflejar sensillez en sus trazos y curvaturas</p>
+<p align = "justify"> si con esta imagen se pudiese decribir la personalidad de alguien, se describiría como rígido, estricto, alguien con el ego muy alto,una persona selectiva y directa, veo desaprobacion porque si le vemos otra cara se puede asemejar una letra "equis", algún pañuelo de seda o hasta puede reflejar sensillez en sus trazos y curvaturas.</p>
 
 
 
@@ -96,7 +96,7 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 ![7](https://user-images.githubusercontent.com/94578395/153294439-95fd3459-239a-4aa0-b30c-3f9fd9086cbc.JPG)
 
 
-<p align = "justify"> se siente que choca, sea tinta, un  brazo con los dedos empuñados, el impacto de una bala , refleja algún tipo de tragedia, es una obra que se percibe inmediata, algo que ocurre en un lapso muy pequeño de tiempo</p>
+<p align = "justify"> se siente que choca, sea tinta, un  brazo con los dedos empuñados, el impacto de una bala , refleja algún tipo de tragedia, es una obra que se percibe inmediata, algo que ocurre en un lapso muy pequeño de tiempo, estando acompañado de una escala de grises, que intencifican dicho comportamiento.</p>
 
 
 ### Pieza 8: Tranquilidad floral
@@ -104,7 +104,7 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 
 
 
-<p align = "justify"> Se pueden ver petalos de flores o mariposas, alguna especie de criatura fantástica haciendo una danza que refleja tranquilidad y libertad por su forma abierta; los trazos se sienten suaves, parece hecha por algun tipo de maquina por su precision y delicadeza</p>
+<p align = "justify"> Se pueden ver petalos de flores o mariposas, alguna especie de criatura fantástica haciendo una danza que refleja tranquilidad y libertad por su forma abierta; los trazos se sienten suaves, parece hecha por algun tipo de maquina por su precision y delicadeza, por lo que inspira ese aroma floral y esas curvaturas que pueden generar las funciones hiperbólicas.</p>
 
 
 
@@ -113,15 +113,15 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
 ![9](https://user-images.githubusercontent.com/94578395/153294501-3f555f29-4f27-4138-9f15-85eff41a40bb.JPG)
 
 
-<p align = "justify"> Se puede ver de dos formas, en primera intancia se puede observar segun las curvaturas, dadas por funciones matetamticas, como si cayera, talvez como si algo se recuperara y volviera a tener estabilidad, quiza se asemeja a los signos vitales de una persona o alguna cascada que cae a un océano. </p>
+<p align = "justify"> Se puede ver de dos formas, en primera intancia se puede observar segun las curvaturas, dadas por funciones matetamticas, como si cayera, talvez como si algo se recuperara y volviera a tener estabilidad, quiza se asemeja a los signos vitales de una persona o alguna cascada que cae a un océano, también, se puede apreciar como se manifiesta una sucesión de montañas en la parte superior, comportamientos sinusoidales que pueden ser generados por funciones trigonométricas.</p> 
 
 
 
-### Pieza 10: Espiral gris
+### Pieza 10: Espiral infinita
 ![10](https://user-images.githubusercontent.com/94578395/153294527-7b68f3f2-8c6b-4c71-bc57-3922a3c00a5b.JPG)
 
 
-<p align = "justify"> Hay varias persepciones, se puede describir como un ojo, pez, caracol, un espiral de hojas, hay una cosa en lo que se puede tener concordancia y es que se siente infinito, la espiral da la sensación de movimiento y parece ser algun animal acuatico por fluido y por sus trazos tranquilos. </p>
+<p align = "justify"> Hay varias persepciones, se puede describir como un ojo, pez, caracol, un espiral de hojas, hay una característica en lo que se puede tener concordancia y es que se siente infinito, la espiral da la sensación de movimiento y parece ser algún animal acuático por fluido y por sus trazos tranquilos, claramente, las funciones hiperbólicas pudieron causar este efecto de espiral, característica muy notable en la obra. </p>
 
 
 
