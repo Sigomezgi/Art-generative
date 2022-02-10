@@ -167,5 +167,7 @@ Para la generación de imágenes se tuvieron en cuenta tres aspectos: Funciones 
   - Stack Overflow - Where Developers Learn, Share, & Build Careers. (n.d.). Retrieved January 17, 2022, de: [Stackoverflow](https://stackoverflow.com/)
   - Hacia la ciencia de datos. (n.d.). Retrieved January 17, 2022, de: [Towards Data Science](https://towardsdatascience.com/)
   - FrikisparaGeeks | Un portal de informática para geeks. (n.d.). Retrieved January 17, 2022, de: [Geeks for geeks](https://www.geeksforgeeks.org/)
+  - Red Generativa Antagónica (GAN) | IDIS. (n.d.). Retrieved February 9, 2022, from https://proyectoidis.org/red-generativa-antagonica-gan/
+  - ARTE GENERATIVO 101: LA CONEXIÓN SORPRENDENTE ENTRE MATEMÁTICAS, ARTE Y NATURALEZA. (n.d.). Retrieved February 9, 2022, from https://pankow.us/generative_faq_es/
   
 
