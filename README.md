@@ -1,7 +1,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/53/UNAL_Aplicaci%C3%B3n_Medell%C3%ADn.svg)
 
-<center> <h1> Arte generativo a partir de métodos de aprendizaje estadístico y expreciones matemáticas </h1> </center>
+<center> <h1> Arte generativo a partir de métodos de aprendizaje estadístico y expresiones matemáticas </h1> </center>
 <center> <h4> Juan Daniel Bula Isaza - Bryan Garcia Villa - Simón Gómez Giraldo - Carolina Quintero Osorio </h4> </center>
 <center> <h5> 9 de Febrero de 2022 </h5> </center>
 
@@ -10,7 +10,7 @@
 <p align = "justify"> Imagina que entras a una galería de arte, y en el fondo ves una pintura bastante llamativa, con colores y figuras bastante estéticas, después de contemplar dicha pieza artística por un lapso de tiempo, te diriges a la etiqueta de información y descubres que la pieza fue elaborada por un sistema computacional, es algo muy interesante... ¿No?. Pues esto es una pequeña parte de lo que es el arte generativo y es precisamente lo que encontrarás en este blog. </p>
 
 
-<p align = "justify"> Es impresionante el potencial que puede llegar a tener la inteligencia artificial, tanto, como para desarrollar obras de arte, piezas músicales, videos, entre otras cosas más, que cada día se están explorando en este gigantezco mundo. El gran objetivo de este trabajo, es generar obras de arte a partir de técnicas en aprendizaje estadístico, distribuciones de probabilidad multivariada y expreciones matemáticas, con el fin de presentar una colección de imágenes artísticas para posteriormente ser expuestas y documentadas en este blog.   </p>
+<p align = "justify"> Es impresionante el potencial que puede llegar a tener la inteligencia artificial, tanto, como para desarrollar obras de arte, piezas músicales, videos, entre otras cosas más, que cada día se están explorando en este gigantezco mundo. El gran objetivo de este trabajo, es generar obras de arte a partir de técnicas en aprendizaje estadístico, distribuciones de probabilidad multivariada y expresiones matemáticas, con el fin de presentar una colección de imágenes artísticas para posteriormente ser expuestas y documentadas en este blog.   </p>
 
 
 # Introducción
